@@ -1,1 +1,8 @@
-
+{
+  "name": "m365-graph-user-audit",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "start": "node src/listUsers.js"
+  }
+}
