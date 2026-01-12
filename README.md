@@ -31,3 +31,5 @@ Microsoft 365 users using application permissions.
 - Implement Microsoft Teams integration
 - Add SharePoint site auditing scripts
 - Extend Microsoft Graph queries for reporting
+  
+![Microsoft 365](https://img.shields.io/badge/Microsoft-365-0078D4?logo=microsoft)
