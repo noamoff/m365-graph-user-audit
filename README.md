@@ -11,3 +11,16 @@ Tech:
 - Azure Entra ID
 - OAuth2
 - Node.js
+
+
+## Purpose
+
+This project demonstrates how to authenticate against
+Microsoft Entra ID and query Microsoft Graph to audit
+Microsoft 365 users using application permissions.
+
+## Technologies
+- Microsoft Graph API
+- Azure Entra ID
+- OAuth2 Client Credentials
+- Node.js
