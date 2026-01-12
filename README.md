@@ -24,3 +24,10 @@ Microsoft 365 users using application permissions.
 - Azure Entra ID
 - OAuth2 Client Credentials
 - Node.js
+
+
+## Future Work
+
+- Implement Microsoft Teams integration
+- Add SharePoint site auditing scripts
+- Extend Microsoft Graph queries for reporting
